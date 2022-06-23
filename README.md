@@ -9,3 +9,6 @@ https://discord.faggot.bar
 You aren't allowed to sell or claim this plugin as yours
 You can fork it and add your own code to it 
 You must credit me 
+
+#Editor
+If you want to edit or don't know how to - fork the code and download the edited version you made then open it in an IDE such as Eclipse or Intellij and export it as a jar file (Depending on Bukkit 1.8.8/spigot
