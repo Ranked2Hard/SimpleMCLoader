@@ -1,0 +1,6 @@
+name: SimpleMCLoader
+Version: v0.0.1
+Authors: Ranked2Hard
+Main: loader.java
+# This plugin will not have support after 29/06/22
+
